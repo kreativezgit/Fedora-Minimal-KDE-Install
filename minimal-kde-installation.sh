@@ -21,7 +21,7 @@ fi
 dnf upgrade -y
 
 # Install Plasma Desktop
-dnf install \
+dnf install -y \
   @"base-x" \
   @"Common NetworkManager Submodules" \
   @"Fonts" \
