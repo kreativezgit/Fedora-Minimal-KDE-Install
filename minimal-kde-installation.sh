@@ -26,6 +26,7 @@ dnf install -y \
   @"Common NetworkManager Submodules" \
   @"Fonts" \
   @"Hardware Support" \
+  ark \
   bluedevil \
   breeze-gtk \
   breeze-icon-theme \
@@ -59,6 +60,7 @@ dnf install -y \
   kwalletmanager5 \
   kwebkitpart \
   kwin \
+  libglvnd-gles \
   NetworkManager-config-connectivity-fedora \
   pam-kwallet \
   phonon-qt5-backend-gstreamer \
