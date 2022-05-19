@@ -5,4 +5,4 @@ Working with minimal installation of Fedora
 Install Fedora Minimal
 
 Use Automatic installation script
-curl -L [https://raw.githubusercontent.com/locobastos/MinimalLinuxDesktopEnvironment/master/minimal-plasma-installation/minimal-plasma-installation.sh](https://github.com/kreativezgit/Fedora-Minimal-KDE-Install/blob/main/minimal-kde-installation.sh) | /bin/bash
+curl -L https://raw.githubusercontent.com/kreativezgit/Fedora-Minimal-KDE-Install/main/minimal-kde-installation.sh | /bin/bash
