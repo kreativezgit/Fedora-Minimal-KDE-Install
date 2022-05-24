@@ -7,7 +7,7 @@
 # Author: kreativezgit                                                         #
 # Licence: Do what you want with this script!                                  #
 #          I may be interessted on your enhancements/suggestions.              #
-# Date: 19/05/2022                                                             #
+# Date: 24/05/2022                                                             #
 ################################################################################
 
 # Check if the current user is root
