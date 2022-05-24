@@ -90,7 +90,7 @@ dnf install -y \
   xorg-x11-drv-libinput
 
 # Enable SDDM
-systemctl enable sddm graphical.target
+systemctl enable sddm
 systemctl set-default graphical.target
 
 # Reboot
